@@ -1,16 +1,14 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# probot
-- project: probot
-  role: Contributor
-  duration: 2016 &mdash; Present
-  url: "https://github.com/probot/probot"
-  description: A framework for building GitHub Apps to automate and improve your workflow
+- project: Game Keeper - desktop application
+  role: developer
+  duration: 02.2020 – 04.2020
+  url: "https://github.com/s-samusik/GameKeeper"
+  description: Helper application for themed airsoft games. The application keeps state of current game, count of players, their current state (state of life, money, tasks). Technology stack - C#, .NET Framework, WinForms
 
-# GitHub Classroom
-- project: GitHub Classroom
-  role: Contributor
-  duration: 2015 &mdash; Present
-  url: "https://github.com/education/classroom"
-  description: GitHub Classroom automates repository creation and access control, making it easy for teachers to distribute starter code and collect assignments on GitHub.
+- project: Home Library - web application
+  role: developer
+  duration: 04.2020 – 04.2020
+  url: "https://github.com/s-samusik/HomeLibrary"
+  description: Training project. Home library. List of books with description. Technology stack - C#, ASP.NET Core MVC, MS SQL, EF Core
